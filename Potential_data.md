@@ -1,2 +1,2 @@
-- https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2010-2020-cities.html
-- https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html
+- 2010-2020 city population totals: https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2010-2020-cities.html
+- 2020-2024 city population totals: https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html
