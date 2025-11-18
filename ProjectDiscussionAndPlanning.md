@@ -5,7 +5,7 @@
 - Give everyone a chance to contribute and making a polished finished product tha everyone is proud of
 # Roles
 - Ryan: Gathering data
-- Daniel: Presnetation
+- Daniel: Presentation
 - Chase: Pushing data and code changes to Git
 - Abdullah: Code testing
 # Plan
